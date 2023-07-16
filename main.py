@@ -1,0 +1,3 @@
+import yourlastfriend
+
+yourlastfriend.sayhello()
