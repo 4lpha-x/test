@@ -1,5 +1,2 @@
-yourlastfriend
 requests
-bs4
-redflies
-blackflies
+yourlastfriend
